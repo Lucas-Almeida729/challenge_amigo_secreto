@@ -30,7 +30,7 @@ Este projeto foi implantado e está disponível para uso no link abaixo. Experim
 
 Nada melhor do que ver o projeto em ação! O GIF abaixo demonstra o fluxo completo de uso da aplicação.
 
-<img src="/img/01.gif">
+<img src="/assets/01.gif">
 
 
 ---
